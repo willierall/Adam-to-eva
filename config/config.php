@@ -1,9 +1,9 @@
 <?php
 
-define('DB_HOST', 'your-mysql-endpoint');
-define('DB_NAME', 'exampledb');
+define('DB_HOST', 'terraform-20240814101940372500000001.ckpdjdgeysia.eu-central-1.rds.amazonaws.com:3306');
+define('DB_NAME', 'ClientRelationStoreDB');
 define('DB_USER', 'admin');
-define('DB_PASS', 'change_me');
+define('DB_PASS', 'Chang3m3');
 
 define('OPENSEARCH_ENDPOINT', 'your-opensearch-endpoint');
 define('OPENSEARCH_PORT', 443);
